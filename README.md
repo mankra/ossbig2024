@@ -24,7 +24,7 @@ A link collection to the code and data that was generated for the OSSBIG.
 
 ### Workbooks and Repositories
 
-- Modified IDEA Plugin (Branch KRM) to work with LLMs: https://github.com/mankra/llm-intellij
+- Modified IDEA Plugin (Branch KRM) to work with LLMs. Builded versions are in the OSSBIG cloud: https://github.com/mankra/llm-intellij
 
 #### CUDA
 
