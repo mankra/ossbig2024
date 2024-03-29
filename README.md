@@ -20,7 +20,6 @@ This is the central repository for the OSSBIG AI engineering team.
 - starcoder finetuned with fltk: https://wzggtcyqoo8yqru1.us-east-1.aws.endpoints.huggingface.cloud
 - starcoder finetuned with endless-sky: https://qoge3l92yjotbvkl.us-east-1.aws.endpoints.huggingface.cloud
 - starcoder base model: https://dq9aq8vpwch1ox86.us-east-1.aws.endpoints.huggingface.cloud
-
 - code llamaa 7b: https://w31t8m73lcjkl8in.us-east-1.aws.endpoints.huggingface.cloud
 - code llamaa 7b Instruct: https://aar1w1cxytqfah8l.us-east-1.aws.endpoints.huggingface.cloud
 
