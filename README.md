@@ -43,10 +43,19 @@ A link collection to the stuff that was generated for the OSSBIG.
 
 ### Hugging Face
 
+The datasets and models are set to private, so a login in the OSSBIG-HF account is required.
+
 #### Datasets
 
 - endless-sky dataset for finetuning: https://huggingface.co/datasets/ossbig2024/endless-sky-master
 - fltk dataset for finetuning: https://huggingface.co/datasets/ossbig2024/fltk-1.4.x
+
+#### Models
+
+- Full finetuned starcoder model with endless-sky: https://huggingface.co/ossbig2024/starcoderbase1b-personal-copilot-A100-40GB-colab-endless-sky
+- Full finetuned starcoder model with fltk: https://huggingface.co/ossbig2024/starcoderbase1b-personal-copilot-A100-40GB-colab-fltk-1.4.x
+- PEFT-Layer finetuned with endless-sky. A custom handler was necessary to get it loaded as inference endpoint (https://huggingface.co/ossbig2024/starcoder-LORA-endless-sky/blob/main/handler.py). It seems that the tokenizer is not configured correctly: https://huggingface.co/ossbig2024/starcoder-LORA-endless-sky
+- Merged PEFT-Layer with base model (seems like this did not work, because the model is still pretty small): https://huggingface.co/ossbig2024/starcoder-LORA-endless-sky-merged
 
 #### Inference Endpoints
 
