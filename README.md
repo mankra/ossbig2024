@@ -20,7 +20,7 @@ This is the central repository for the OSSBIG AI engineering team.
 
 ## OSSBIG
 
-This are the links to the stuff that was generated for the OSSBIG.
+A link collection to the stuff that was generated for the OSSBIG.
 
 ### Workbooks and Repositories
 
