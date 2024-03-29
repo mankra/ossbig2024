@@ -44,7 +44,7 @@ A link collection to the code and data that was generated for the OSSBIG.
 
 ### Hugging Face
 
-The datasets and models are set to private, so a login in the OSSBIG-HF account (Franz-OSSBIG-email) is required.
+The datasets and models are set to private, so a login in the OSSBIG-HF account (Franz's-OSSBIG-email) is required.
 
 #### Datasets
 
