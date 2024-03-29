@@ -6,7 +6,7 @@ This is the central repository for the OSSBIG AI engineering team.
 
 - CUDA acceleration in C: https://colab.research.google.com/drive/1N50mFGvlg0CFGDONdsS0ZQL2NyJEAMMt#scrollTo=HLdoj4cz-xal
 - CUDA code repository (Branch CUDA): https://github.com/mankra/llama2.c
-- Modified IntelliJ Plugin (Braanch KRM): https://github.com/mankra/llm-intellij
+- Modified IDEA Plugin (Braanch KRM): https://github.com/mankra/llm-intellij
 
 # Hugging Face OSSBIG Links
 
