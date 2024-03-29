@@ -28,6 +28,15 @@ This are the links to the stuff that was generated for the OSSBIG.
 - CUDA acceleration in C: https://colab.research.google.com/drive/1N50mFGvlg0CFGDONdsS0ZQL2NyJEAMMt#scrollTo=HLdoj4cz-xal
 - CUDA code repository (Branch CUDA): https://github.com/mankra/llama2.c
 
+#### Finetuning workbooks and repositories
+
+- Finetuning Code Repository (Data preperation, training): https://github.com/mankra/finetune
+- Full finetuning workbook for endless-sky: https://colab.research.google.com/drive/1d99cUGdeHpu06pCMT-ioapw97EkR7ha1#scrollTo=zqtjrruXXKu9
+- Full finetuning workbook for fltk: https://colab.research.google.com/drive/1u7PLPCE3bKHzhkSdxhcrFqko-k26pPfw#scrollTo=zqtjrruXXKu9
+- PEFT finetuning workbook for endless-sky: https://colab.research.google.com/drive/18XqYBVkJv9lqwrnWuoI06ZUxQUuwiR1U#scrollTo=4AXJGt-ag4l5
+- PEFT finetuning workbook for fltk: https://colab.research.google.com/drive/1dXruWXemEYI7srTbNAjEe_ESEvRFGBBT#scrollTo=v8MG0g-eEW9X
+- Merge PEFT Layer with base model: https://colab.research.google.com/drive/1GWCLdRmZNXh6CbOMAwou4FRQCe19K-8x#scrollTo=dOIeFZfbiQmz
+
 ### Hugging Face OSSBIG Links
 
 - endless-sky dataset for finetuning: https://huggingface.co/datasets/ossbig2024/endless-sky-master
@@ -43,11 +52,3 @@ This are the links to the stuff that was generated for the OSSBIG.
 - code llamaa 7b: https://w31t8m73lcjkl8in.us-east-1.aws.endpoints.huggingface.cloud
 - code llamaa 7b Instruct: https://aar1w1cxytqfah8l.us-east-1.aws.endpoints.huggingface.cloud
 
-### Finetuning workbooks and repositories - not successfull
-
-- Finetuning Code Repository (Data preperation, training): https://github.com/mankra/finetune
-- Full finetuning workbook for endless-sky: https://colab.research.google.com/drive/1d99cUGdeHpu06pCMT-ioapw97EkR7ha1#scrollTo=zqtjrruXXKu9
-- Full finetuning workbook for fltk: https://colab.research.google.com/drive/1u7PLPCE3bKHzhkSdxhcrFqko-k26pPfw#scrollTo=zqtjrruXXKu9
-- PEFT finetuning workbook for endless-sky: https://colab.research.google.com/drive/18XqYBVkJv9lqwrnWuoI06ZUxQUuwiR1U#scrollTo=4AXJGt-ag4l5
-- PEFT finetuning workbook for fltk: https://colab.research.google.com/drive/1dXruWXemEYI7srTbNAjEe_ESEvRFGBBT#scrollTo=v8MG0g-eEW9X
-- Merge PEFT Layer with base model: https://colab.research.google.com/drive/1GWCLdRmZNXh6CbOMAwou4FRQCe19K-8x#scrollTo=dOIeFZfbiQmz
