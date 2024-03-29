@@ -12,7 +12,7 @@ This is the central repository for the OSSBIG AI engineering team.
 
 ### Karpathy - Build GPT From Scratch
 
-Very informative videos about the internals of a LLM. A real step by step explaination were everything is explained in detail.
+Very informative videos about the internals of a LLM. A real step by step description were everything is expained in detail.
 
 - Lets build the GPT Tokenizer: https://youtu.be/zduSFxRajkE?si=oiY3IYLJjNB3nR86
 - The spelled-out intro to language modeling: building makemore: https://youtu.be/PaCmpygFfXo?si=Xo-7vP22l-I6l028
