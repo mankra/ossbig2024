@@ -60,7 +60,7 @@ The datasets and models are set to private, so a login in the OSSBIG-HF account 
 
 #### Inference Endpoints
 
-- List of all OSSBIG inference Endpoints: https://ui.endpoints.huggingface.co/ossbig2024/endpoints/dedicated
+- List of all OSSBIG inference endpoints: https://ui.endpoints.huggingface.co/ossbig2024/endpoints/dedicated
 - starcoder (not modified): https://dg6m2lge10naythk.us-east-1.aws.endpoints.huggingface.cloud
 - starcoder finetuned with fltk: https://wzggtcyqoo8yqru1.us-east-1.aws.endpoints.huggingface.cloud
 - starcoder finetuned with endless-sky: https://qoge3l92yjotbvkl.us-east-1.aws.endpoints.huggingface.cloud
