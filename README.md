@@ -8,6 +8,22 @@ This is the central repository for the OSSBIG AI engineering team.
 - CUDA code repository (Branch CUDA): https://github.com/mankra/llama2.c
 - Modified IntelliJ Plugin (Braanch KRM): https://github.com/mankra/llm-intellij
 
+# Hugging Face OSSBIG Links
+
+- endless-sky game dataset: https://huggingface.co/datasets/ossbig2024/endless-sky-master
+- fltk dataset: https://huggingface.co/datasets/ossbig2024/fltk-1.4.x
+- List of all OSSBIG inference Endpoints: https://ui.endpoints.huggingface.co/ossbig2024/endpoints/dedicated
+
+## Inference Endpoints
+
+- starcoder (not modified): https://dg6m2lge10naythk.us-east-1.aws.endpoints.huggingface.cloud
+- starcoder finetuned with fltk: https://wzggtcyqoo8yqru1.us-east-1.aws.endpoints.huggingface.cloud
+- starcoder finetuned with endless-sky: https://qoge3l92yjotbvkl.us-east-1.aws.endpoints.huggingface.cloud
+- starcoder base model: https://dq9aq8vpwch1ox86.us-east-1.aws.endpoints.huggingface.cloud
+
+- code llamaa 7b: https://w31t8m73lcjkl8in.us-east-1.aws.endpoints.huggingface.cloud
+- code llamaa 7b Instruct: https://aar1w1cxytqfah8l.us-east-1.aws.endpoints.huggingface.cloud
+
 # Useful Links
 
 - Benchmark Referenz: https://nicholas.carlini.com/writing/2024/my-benchmark-for-large-language-models.html
