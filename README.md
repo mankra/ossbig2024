@@ -2,6 +2,11 @@
 
 This is the central repository for the OSSBIG AI engineering team.
 
+# Workbooks and Repositories
+
+- CUDA acceleration in C: https://colab.research.google.com/drive/1N50mFGvlg0CFGDONdsS0ZQL2NyJEAMMt#scrollTo=HLdoj4cz-xal
+- CUDA code repository: https://github.com/mankra/llama2.c
+
 # Useful Links
 
 - Benchmark Referenz: https://nicholas.carlini.com/writing/2024/my-benchmark-for-large-language-models.html
