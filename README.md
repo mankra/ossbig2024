@@ -26,12 +26,9 @@ A link collection to the code and data that was generated for the OSSBIG.
 
 ### Workbooks and Repositories
 
+#### IDEA Plugin
+
 - Modified IDEA Plugin (Branch KRM) to work with LLMs. Builded versions are in the OSSBIG cloud: https://github.com/mankra/llm-intellij
-
-#### CUDA
-
-- CUDA acceleration in C: https://colab.research.google.com/drive/1N50mFGvlg0CFGDONdsS0ZQL2NyJEAMMt#scrollTo=HLdoj4cz-xal
-- CUDA code repository (Branch CUDA): https://github.com/mankra/llama2.c
 
 #### Finetuning workbooks and repositories
 
@@ -43,6 +40,11 @@ A link collection to the code and data that was generated for the OSSBIG.
 - PEFT finetuning workbook for fltk: https://colab.research.google.com/drive/1dXruWXemEYI7srTbNAjEe_ESEvRFGBBT#scrollTo=v8MG0g-eEW9X
 - Merge PEFT Layer with base model: https://colab.research.google.com/drive/1GWCLdRmZNXh6CbOMAwou4FRQCe19K-8x#scrollTo=dOIeFZfbiQmz
 - WanDB finetuning results (manfredkral9 at gmail account needed to view): https://wandb.ai/ossbig/huggingface
+
+#### CUDA
+
+- CUDA acceleration in C: https://colab.research.google.com/drive/1N50mFGvlg0CFGDONdsS0ZQL2NyJEAMMt#scrollTo=HLdoj4cz-xal
+- CUDA code repository (Branch CUDA): https://github.com/mankra/llama2.c
 
 ### Hugging Face
 
