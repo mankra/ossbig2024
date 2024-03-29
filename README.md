@@ -40,6 +40,7 @@ A link collection to the stuff that was generated for the OSSBIG.
 - PEFT finetuning workbook for endless-sky: https://colab.research.google.com/drive/18XqYBVkJv9lqwrnWuoI06ZUxQUuwiR1U#scrollTo=4AXJGt-ag4l5
 - PEFT finetuning workbook for fltk: https://colab.research.google.com/drive/1dXruWXemEYI7srTbNAjEe_ESEvRFGBBT#scrollTo=v8MG0g-eEW9X
 - Merge PEFT Layer with base model: https://colab.research.google.com/drive/1GWCLdRmZNXh6CbOMAwou4FRQCe19K-8x#scrollTo=dOIeFZfbiQmz
+- WanDB finetuning results (manfredkral9@gmail.com account needed to view): https://wandb.ai/ossbig/huggingface
 
 ### Hugging Face
 
