@@ -10,8 +10,8 @@ This is the central repository for the OSSBIG AI engineering team.
 
 # Hugging Face OSSBIG Links
 
-- endless-sky game dataset: https://huggingface.co/datasets/ossbig2024/endless-sky-master
-- fltk dataset: https://huggingface.co/datasets/ossbig2024/fltk-1.4.x
+- endless-sky dataset for finetuning: https://huggingface.co/datasets/ossbig2024/endless-sky-master
+- fltk dataset for finetuning: https://huggingface.co/datasets/ossbig2024/fltk-1.4.x
 - List of all OSSBIG inference Endpoints: https://ui.endpoints.huggingface.co/ossbig2024/endpoints/dedicated
 
 ## Inference Endpoints
@@ -41,6 +41,8 @@ This is the central repository for the OSSBIG AI engineering team.
 ## Finetuning workbooks and repositories - not successfull
 
 - Finetuning Code Repository (Data preperation, training): https://github.com/mankra/finetune
-- Finetuning Workbook for endless-sky game: https://colab.research.google.com/drive/18XqYBVkJv9lqwrnWuoI06ZUxQUuwiR1U#scrollTo=4AXJGt-ag4l5
-- Finetuning Workbook for fltk: https://colab.research.google.com/drive/1dXruWXemEYI7srTbNAjEe_ESEvRFGBBT#scrollTo=v8MG0g-eEW9X
+- Full finetuning workbook for endless-sky: https://colab.research.google.com/drive/1d99cUGdeHpu06pCMT-ioapw97EkR7ha1#scrollTo=zqtjrruXXKu9
+- Full finetuning workbook for fltk: https://colab.research.google.com/drive/1u7PLPCE3bKHzhkSdxhcrFqko-k26pPfw#scrollTo=zqtjrruXXKu9
+- PEFT finetuning workbook for endless-sky: https://colab.research.google.com/drive/18XqYBVkJv9lqwrnWuoI06ZUxQUuwiR1U#scrollTo=4AXJGt-ag4l5
+- PEFT finetuning workbook for fltk: https://colab.research.google.com/drive/1dXruWXemEYI7srTbNAjEe_ESEvRFGBBT#scrollTo=v8MG0g-eEW9X
 - Merge PEFT Layer with base model: https://colab.research.google.com/drive/1GWCLdRmZNXh6CbOMAwou4FRQCe19K-8x#scrollTo=dOIeFZfbiQmz
