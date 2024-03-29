@@ -22,7 +22,7 @@ Very informative videos about the internals of a LLM. A real step by step descri
 
 ## OSSBIG
 
-A link collection to the code and data that was generated the OSSBIG researches.
+A link collection to the code and data that was generated during the OSSBIG researches.
 
 ### Workbooks and Repositories
 
