@@ -24,7 +24,7 @@ This are the links to the stuff that was generated for the OSSBIG.
 
 ### Workbooks and Repositories
 
-- Modified IDEA Plugin (Braanch KRM) to work with LLMs: https://github.com/mankra/llm-intellij
+- Modified IDEA Plugin (Branch KRM) to work with LLMs: https://github.com/mankra/llm-intellij
 - CUDA acceleration in C: https://colab.research.google.com/drive/1N50mFGvlg0CFGDONdsS0ZQL2NyJEAMMt#scrollTo=HLdoj4cz-xal
 - CUDA code repository (Branch CUDA): https://github.com/mankra/llama2.c
 
