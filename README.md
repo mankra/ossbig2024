@@ -33,7 +33,7 @@ A link collection to the stuff that was generated for the OSSBIG.
 
 #### Finetuning workbooks and repositories
 
-- Quelle für die Experimente: https://huggingface.co/blog/personal-copilot
+- Source of the following experiments https://huggingface.co/blog/personal-copilot
 - Finetuning Code Repository (Data preperation, training): https://github.com/mankra/finetune
 - Full finetuning workbook for endless-sky: https://colab.research.google.com/drive/1d99cUGdeHpu06pCMT-ioapw97EkR7ha1#scrollTo=zqtjrruXXKu9
 - Full finetuning workbook for fltk: https://colab.research.google.com/drive/1u7PLPCE3bKHzhkSdxhcrFqko-k26pPfw#scrollTo=zqtjrruXXKu9
