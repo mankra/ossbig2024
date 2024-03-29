@@ -40,14 +40,16 @@ This are the links to the stuff that was generated for the OSSBIG.
 - PEFT finetuning workbook for fltk: https://colab.research.google.com/drive/1dXruWXemEYI7srTbNAjEe_ESEvRFGBBT#scrollTo=v8MG0g-eEW9X
 - Merge PEFT Layer with base model: https://colab.research.google.com/drive/1GWCLdRmZNXh6CbOMAwou4FRQCe19K-8x#scrollTo=dOIeFZfbiQmz
 
-### Hugging Face OSSBIG Links
+### Hugging Face
+
+#### Datasets
 
 - endless-sky dataset for finetuning: https://huggingface.co/datasets/ossbig2024/endless-sky-master
 - fltk dataset for finetuning: https://huggingface.co/datasets/ossbig2024/fltk-1.4.x
+
+#### Inference Endpoints
+
 - List of all OSSBIG inference Endpoints: https://ui.endpoints.huggingface.co/ossbig2024/endpoints/dedicated
-
-### Inference Endpoints
-
 - starcoder (not modified): https://dg6m2lge10naythk.us-east-1.aws.endpoints.huggingface.cloud
 - starcoder finetuned with fltk: https://wzggtcyqoo8yqru1.us-east-1.aws.endpoints.huggingface.cloud
 - starcoder finetuned with endless-sky: https://qoge3l92yjotbvkl.us-east-1.aws.endpoints.huggingface.cloud
